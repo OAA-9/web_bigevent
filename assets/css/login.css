@@ -50,6 +50,6 @@ body {
   top: 10px;
 }
 
-.layui-input {
+form .layui-input {
   padding-left: 32px;
 }
